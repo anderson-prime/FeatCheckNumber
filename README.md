@@ -71,17 +71,8 @@ curl -X POST http://localhost:3000/check-contact \
 
 ---
 
-## ⚠️ Observações
-
-- Use com responsabilidade: o uso da API depende de uma sessão válida do WhatsApp e do QR code para autenticação.
-- Pode ser necessário ajustar permissões e configurações do Puppeteer em ambientes sem interface gráfica.
-
----
-
 ## 📄 Licença
 
 MIT
 
 ---
-
-Se quiser que eu adicione instruções de persistência de sessão, variáveis de ambiente ou scripts NPM, posso atualizar o `README` rapidamente.
